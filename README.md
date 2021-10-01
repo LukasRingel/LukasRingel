@@ -37,7 +37,6 @@
    <br/>
 
    <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> </a>
-   <a href="https://maven.apache.org/" target="_blank"> <img src="https://img.lukasringel.de/maven.svg" alt="maven" width="45" height="45"/> </a>
    <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
    <a href="https://vue.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 </div>
