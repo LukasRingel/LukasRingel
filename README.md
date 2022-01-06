@@ -22,7 +22,7 @@
 
 * 💻 I'm a self-taught Java developer
 * 🎓 I'm a Business Informatics student (University of Koblenz)
-* 🌐 I'm currently focusing on web development with Angular
+* 🌐 I'm currently focusing on backend development with java
 
 
 <br>
