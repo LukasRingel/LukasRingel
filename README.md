@@ -22,24 +22,19 @@
 
 * 💻 I'm a self-taught Java developer
 * 🎓 I'm a Business Informatics student (University of Koblenz)
-* 🌐 I'm currently focusing on backend development with java
 
 
 <br>
 
 <div align="center">
-<h3>Programming languages and Frameworks I know</h3>
+<h3>Programming languages</h3>
    <a href="https://java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a>
-   <a href="https://java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlinlang" width="45" height="45"/> </a>
+   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlinlang" width="45" height="45"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="45" height="45"/> </a>
    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="45"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> </a> 
    <br/>
-
-   <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> </a>
-   <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
-   <a href="https://vue.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 </div>
 
 <div align="center">
@@ -52,11 +47,16 @@
 </div>
 
 <div align="center">
-   <h3>Well known API's</h3> 
+   <h3>Well known API's and frameworks</h3> 
    <a href="https://github.com/DV8FromTheWorld/JDA" target="_blank"> <img src="https://raw.githubusercontent.com/DV8FromTheWorld/JDA/assets/assets/readme/logo.png" alt="JDA" width="45" height="45"/> </a>
    <a href="https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API" target="_blank"> <img src="https://www.teamspeak.com/user/themes/teamspeak/images/logo_inverse.svg" alt="teamspeak" width="45" height="45"/> </a>
    <a href="https://www.spigotmc.org" target="_blank"> <img src="https://static.spigotmc.org/img/spigot.png" alt="Spigot" width="45" height="45"/> </a>
+
+   <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> </a>
+   <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
+   <a href="https://vue.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 </div>
+   </div>
 
 <div align="center">
    <h3>Loved software and editors</h3> 
