@@ -34,7 +34,7 @@
    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="45"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> </a> 
-   <a href="[https://www.w3schools.com/css/](https://learn.microsoft.com/de-de/dotnet/csharp/)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="c#"/> </a> 
+   <a href="[https://www.w3schools.com/css/](https://learn.microsoft.com/de-de/dotnet/csharp/)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="c#" width="45" height="45"/> </a> 
    <br/>
 </div>
 
