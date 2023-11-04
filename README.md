@@ -53,7 +53,7 @@
    <a href="https://www.spigotmc.org" target="_blank"> <img src="https://static.spigotmc.org/img/spigot.png" alt="Spigot" width="45" height="45"/> </a>
    <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> </a>
 
-   <a href="https://react.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="react" width="45" height="45"/> </a>
+   <a href="https://react.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="45"/> </a>
    <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/> </a>
    <a href="https://vue.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="45" height="45"/> </a>
 </div>
