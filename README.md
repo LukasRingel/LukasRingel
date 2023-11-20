@@ -19,11 +19,6 @@
 
 
 ## 📖 About me
-
-* 💻 Fullstack developer <a href="https://www.brickmakers.de/">@BRICKMAKERS</a>
-* 🎓 Business Informatics student (University of Koblenz)
-
-
 <br>
 
 <div align="center">
